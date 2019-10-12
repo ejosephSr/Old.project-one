@@ -1,0 +1,3 @@
+{
+    "Description2" : {"M" : "Mutual Benefit Public Charity", "O" : "Operating Public Charity", "S" : "Supporting Public Charity"}
+}
